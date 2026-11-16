@@ -1,0 +1,3408 @@
+{
+  "version": "hosi-room5-epoch49-rectified-fov90-ccw90-v2-20261116",
+  "fps": 30,
+  "generated_seconds": 15,
+  "prefix_seconds": 0.5,
+  "checkpoint": {
+    "epoch": 49,
+    "sha256": "9a56cd2add8df08426eb69a0f3530c096eb3d6b8124ffb3014e6cb883cd94ed6"
+  },
+  "trials": [
+    {
+      "trial_id": "A01_01__s1_p1__seed1",
+      "event_id": "A01_01",
+      "family_id": "A01",
+      "group": "A",
+      "zone_id": "Z1",
+      "variant_id": "s1_p1",
+      "instruction": "C turns left by 90 degrees in place and holds the new facing direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A01_01__s1_p2__seed1",
+      "event_id": "A01_01",
+      "family_id": "A01",
+      "group": "A",
+      "zone_id": "Z1",
+      "variant_id": "s1_p2",
+      "instruction": "C makes a 90-degree turn to the left without walking, then stays facing that way.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A01_01__s2_p1__seed1",
+      "event_id": "A01_01",
+      "family_id": "A01",
+      "group": "A",
+      "zone_id": "Z1",
+      "variant_id": "s2_p1",
+      "instruction": "C turns right by 90 degrees in place and holds the new facing direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A01_01__s2_p2__seed1",
+      "event_id": "A01_01",
+      "family_id": "A01",
+      "group": "A",
+      "zone_id": "Z1",
+      "variant_id": "s2_p2",
+      "instruction": "C makes a 90-degree turn to the right without walking, then stays facing that way.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A01_02__s1_p1__seed1",
+      "event_id": "A01_02",
+      "family_id": "A01",
+      "group": "A",
+      "zone_id": "Z2",
+      "variant_id": "s1_p1",
+      "instruction": "C turns left by 90 degrees in place and holds the new facing direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A01_02__s1_p2__seed1",
+      "event_id": "A01_02",
+      "family_id": "A01",
+      "group": "A",
+      "zone_id": "Z2",
+      "variant_id": "s1_p2",
+      "instruction": "C makes a 90-degree turn to the left without walking, then stays facing that way.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A01_02__s2_p1__seed1",
+      "event_id": "A01_02",
+      "family_id": "A01",
+      "group": "A",
+      "zone_id": "Z2",
+      "variant_id": "s2_p1",
+      "instruction": "C turns right by 90 degrees in place and holds the new facing direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A01_02__s2_p2__seed1",
+      "event_id": "A01_02",
+      "family_id": "A01",
+      "group": "A",
+      "zone_id": "Z2",
+      "variant_id": "s2_p2",
+      "instruction": "C makes a 90-degree turn to the right without walking, then stays facing that way.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A02_01__s1_p1__seed1",
+      "event_id": "A02_01",
+      "family_id": "A02",
+      "group": "A",
+      "zone_id": "Z1",
+      "variant_id": "s1_p1",
+      "instruction": "C raises the left arm above the head and keeps it raised, with the right arm down.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A02_01__s1_p2__seed1",
+      "event_id": "A02_01",
+      "family_id": "A02",
+      "group": "A",
+      "zone_id": "Z1",
+      "variant_id": "s1_p2",
+      "instruction": "C lifts the left arm overhead and holds it there while keeping the right arm lowered.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A02_01__s2_p1__seed1",
+      "event_id": "A02_01",
+      "family_id": "A02",
+      "group": "A",
+      "zone_id": "Z1",
+      "variant_id": "s2_p1",
+      "instruction": "C raises the right arm above the head and keeps it raised, with the left arm down.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A02_01__s2_p2__seed1",
+      "event_id": "A02_01",
+      "family_id": "A02",
+      "group": "A",
+      "zone_id": "Z1",
+      "variant_id": "s2_p2",
+      "instruction": "C lifts the right arm overhead and holds it there while keeping the left arm lowered.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A02_02__s1_p1__seed1",
+      "event_id": "A02_02",
+      "family_id": "A02",
+      "group": "A",
+      "zone_id": "Z3",
+      "variant_id": "s1_p1",
+      "instruction": "C raises the left arm above the head and keeps it raised, with the right arm down.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A02_02__s1_p2__seed1",
+      "event_id": "A02_02",
+      "family_id": "A02",
+      "group": "A",
+      "zone_id": "Z3",
+      "variant_id": "s1_p2",
+      "instruction": "C lifts the left arm overhead and holds it there while keeping the right arm lowered.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A02_02__s2_p1__seed1",
+      "event_id": "A02_02",
+      "family_id": "A02",
+      "group": "A",
+      "zone_id": "Z3",
+      "variant_id": "s2_p1",
+      "instruction": "C raises the right arm above the head and keeps it raised, with the left arm down.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A02_02__s2_p2__seed1",
+      "event_id": "A02_02",
+      "family_id": "A02",
+      "group": "A",
+      "zone_id": "Z3",
+      "variant_id": "s2_p2",
+      "instruction": "C lifts the right arm overhead and holds it there while keeping the left arm lowered.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A03_01__s1_p1__seed1",
+      "event_id": "A03_01",
+      "family_id": "A03",
+      "group": "A",
+      "zone_id": "Z4",
+      "variant_id": "s1_p1",
+      "instruction": "C lowers into a squat and stays crouched.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A03_01__s1_p2__seed1",
+      "event_id": "A03_01",
+      "family_id": "A03",
+      "group": "A",
+      "zone_id": "Z4",
+      "variant_id": "s1_p2",
+      "instruction": "C bends both knees to squat down and holds that posture.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A03_01__s2_p1__seed1",
+      "event_id": "A03_01",
+      "family_id": "A03",
+      "group": "A",
+      "zone_id": "Z4",
+      "variant_id": "s2_p1",
+      "instruction": "C stands up straight and remains standing.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A03_01__s2_p2__seed1",
+      "event_id": "A03_01",
+      "family_id": "A03",
+      "group": "A",
+      "zone_id": "Z4",
+      "variant_id": "s2_p2",
+      "instruction": "C straightens both legs to stand upright and holds that posture.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A03_02__s1_p1__seed1",
+      "event_id": "A03_02",
+      "family_id": "A03",
+      "group": "A",
+      "zone_id": "Z6",
+      "variant_id": "s1_p1",
+      "instruction": "C lowers into a squat and stays crouched.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A03_02__s1_p2__seed1",
+      "event_id": "A03_02",
+      "family_id": "A03",
+      "group": "A",
+      "zone_id": "Z6",
+      "variant_id": "s1_p2",
+      "instruction": "C bends both knees to squat down and holds that posture.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A03_02__s2_p1__seed1",
+      "event_id": "A03_02",
+      "family_id": "A03",
+      "group": "A",
+      "zone_id": "Z6",
+      "variant_id": "s2_p1",
+      "instruction": "C stands up straight and remains standing.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A03_02__s2_p2__seed1",
+      "event_id": "A03_02",
+      "family_id": "A03",
+      "group": "A",
+      "zone_id": "Z6",
+      "variant_id": "s2_p2",
+      "instruction": "C straightens both legs to stand upright and holds that posture.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A04_01__s1_p1__seed1",
+      "event_id": "A04_01",
+      "family_id": "A04",
+      "group": "A",
+      "zone_id": "Z5",
+      "variant_id": "s1_p1",
+      "instruction": "C walks forward for about two meters, then stops and remains standing.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A04_01__s1_p2__seed1",
+      "event_id": "A04_01",
+      "family_id": "A04",
+      "group": "A",
+      "zone_id": "Z5",
+      "variant_id": "s1_p2",
+      "instruction": "C moves about two meters straight ahead on foot and then stands still.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A04_01__s2_p1__seed1",
+      "event_id": "A04_01",
+      "family_id": "A04",
+      "group": "A",
+      "zone_id": "Z5",
+      "variant_id": "s2_p1",
+      "instruction": "C walks backward for about two meters, then stops and remains standing.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A04_01__s2_p2__seed1",
+      "event_id": "A04_01",
+      "family_id": "A04",
+      "group": "A",
+      "zone_id": "Z5",
+      "variant_id": "s2_p2",
+      "instruction": "C moves about two meters straight backward on foot and then stands still.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A04_02__s1_p1__seed1",
+      "event_id": "A04_02",
+      "family_id": "A04",
+      "group": "A",
+      "zone_id": "Z6",
+      "variant_id": "s1_p1",
+      "instruction": "C walks forward for about two meters, then stops and remains standing.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A04_02__s1_p2__seed1",
+      "event_id": "A04_02",
+      "family_id": "A04",
+      "group": "A",
+      "zone_id": "Z6",
+      "variant_id": "s1_p2",
+      "instruction": "C moves about two meters straight ahead on foot and then stands still.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A04_02__s2_p1__seed1",
+      "event_id": "A04_02",
+      "family_id": "A04",
+      "group": "A",
+      "zone_id": "Z6",
+      "variant_id": "s2_p1",
+      "instruction": "C walks backward for about two meters, then stops and remains standing.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A04_02__s2_p2__seed1",
+      "event_id": "A04_02",
+      "family_id": "A04",
+      "group": "A",
+      "zone_id": "Z6",
+      "variant_id": "s2_p2",
+      "instruction": "C moves about two meters straight backward on foot and then stands still.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A05_01__s1_p1__seed1",
+      "event_id": "A05_01",
+      "family_id": "A05",
+      "group": "A",
+      "zone_id": "Z4",
+      "variant_id": "s1_p1",
+      "instruction": "C sidesteps about 0.8 meters to the left without turning, then stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A05_01__s1_p2__seed1",
+      "event_id": "A05_01",
+      "family_id": "A05",
+      "group": "A",
+      "zone_id": "Z4",
+      "variant_id": "s1_p2",
+      "instruction": "C moves sideways to the left for about 0.8 meters, keeping the initial facing direction, and stands still.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A05_01__s2_p1__seed1",
+      "event_id": "A05_01",
+      "family_id": "A05",
+      "group": "A",
+      "zone_id": "Z4",
+      "variant_id": "s2_p1",
+      "instruction": "C sidesteps about 0.8 meters to the right without turning, then stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A05_01__s2_p2__seed1",
+      "event_id": "A05_01",
+      "family_id": "A05",
+      "group": "A",
+      "zone_id": "Z4",
+      "variant_id": "s2_p2",
+      "instruction": "C moves sideways to the right for about 0.8 meters, keeping the initial facing direction, and stands still.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A05_02__s1_p1__seed1",
+      "event_id": "A05_02",
+      "family_id": "A05",
+      "group": "A",
+      "zone_id": "Z5",
+      "variant_id": "s1_p1",
+      "instruction": "C sidesteps about 0.8 meters to the left without turning, then stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A05_02__s1_p2__seed1",
+      "event_id": "A05_02",
+      "family_id": "A05",
+      "group": "A",
+      "zone_id": "Z5",
+      "variant_id": "s1_p2",
+      "instruction": "C moves sideways to the left for about 0.8 meters, keeping the initial facing direction, and stands still.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A05_02__s2_p1__seed1",
+      "event_id": "A05_02",
+      "family_id": "A05",
+      "group": "A",
+      "zone_id": "Z5",
+      "variant_id": "s2_p1",
+      "instruction": "C sidesteps about 0.8 meters to the right without turning, then stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A05_02__s2_p2__seed1",
+      "event_id": "A05_02",
+      "family_id": "A05",
+      "group": "A",
+      "zone_id": "Z5",
+      "variant_id": "s2_p2",
+      "instruction": "C moves sideways to the right for about 0.8 meters, keeping the initial facing direction, and stands still.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A06_01__s1_p1__seed1",
+      "event_id": "A06_01",
+      "family_id": "A06",
+      "group": "A",
+      "zone_id": "Z2",
+      "variant_id": "s1_p1",
+      "instruction": "C stops walking immediately and remains standing still.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A06_01__s1_p2__seed1",
+      "event_id": "A06_01",
+      "family_id": "A06",
+      "group": "A",
+      "zone_id": "Z2",
+      "variant_id": "s1_p2",
+      "instruction": "C comes to a stop now and stays still on both feet.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A06_01__s2_p1__seed1",
+      "event_id": "A06_01",
+      "family_id": "A06",
+      "group": "A",
+      "zone_id": "Z2",
+      "variant_id": "s2_p1",
+      "instruction": "C continues walking straight for about two more meters, then stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A06_01__s2_p2__seed1",
+      "event_id": "A06_01",
+      "family_id": "A06",
+      "group": "A",
+      "zone_id": "Z2",
+      "variant_id": "s2_p2",
+      "instruction": "C keeps walking forward for about another two meters and then stands still.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A06_02__s1_p1__seed1",
+      "event_id": "A06_02",
+      "family_id": "A06",
+      "group": "A",
+      "zone_id": "Z3",
+      "variant_id": "s1_p1",
+      "instruction": "C stops walking immediately and remains standing still.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A06_02__s1_p2__seed1",
+      "event_id": "A06_02",
+      "family_id": "A06",
+      "group": "A",
+      "zone_id": "Z3",
+      "variant_id": "s1_p2",
+      "instruction": "C comes to a stop now and stays still on both feet.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A06_02__s2_p1__seed1",
+      "event_id": "A06_02",
+      "family_id": "A06",
+      "group": "A",
+      "zone_id": "Z3",
+      "variant_id": "s2_p1",
+      "instruction": "C continues walking straight for about two more meters, then stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "A06_02__s2_p2__seed1",
+      "event_id": "A06_02",
+      "family_id": "A06",
+      "group": "A",
+      "zone_id": "Z3",
+      "variant_id": "s2_p2",
+      "instruction": "C keeps walking forward for about another two meters and then stands still.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B01_01__t1_v1__seed1",
+      "event_id": "B01_01",
+      "family_id": "B01",
+      "group": "B",
+      "zone_id": "Z1",
+      "variant_id": "t1_v1",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B01_01__t1_v2__seed1",
+      "event_id": "B01_01",
+      "family_id": "B01",
+      "group": "B",
+      "zone_id": "Z1",
+      "variant_id": "t1_v2",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B01_01__t2_v1__seed1",
+      "event_id": "B01_01",
+      "family_id": "B01",
+      "group": "B",
+      "zone_id": "Z1",
+      "variant_id": "t2_v1",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B01_01__t2_v2__seed1",
+      "event_id": "B01_01",
+      "family_id": "B01",
+      "group": "B",
+      "zone_id": "Z1",
+      "variant_id": "t2_v2",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B01_02__t1_v1__seed1",
+      "event_id": "B01_02",
+      "family_id": "B01",
+      "group": "B",
+      "zone_id": "Z3",
+      "variant_id": "t1_v1",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B01_02__t1_v2__seed1",
+      "event_id": "B01_02",
+      "family_id": "B01",
+      "group": "B",
+      "zone_id": "Z3",
+      "variant_id": "t1_v2",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B01_02__t2_v1__seed1",
+      "event_id": "B01_02",
+      "family_id": "B01",
+      "group": "B",
+      "zone_id": "Z3",
+      "variant_id": "t2_v1",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B01_02__t2_v2__seed1",
+      "event_id": "B01_02",
+      "family_id": "B01",
+      "group": "B",
+      "zone_id": "Z3",
+      "variant_id": "t2_v2",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B02_01__t1_v1__seed1",
+      "event_id": "B02_01",
+      "family_id": "B02",
+      "group": "B",
+      "zone_id": "Z3",
+      "variant_id": "t1_v1",
+      "instruction": "C walks to the entrance door and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B02_01__t1_v2__seed1",
+      "event_id": "B02_01",
+      "family_id": "B02",
+      "group": "B",
+      "zone_id": "Z3",
+      "variant_id": "t1_v2",
+      "instruction": "C walks to the entrance door and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B02_01__t2_v1__seed1",
+      "event_id": "B02_01",
+      "family_id": "B02",
+      "group": "B",
+      "zone_id": "Z3",
+      "variant_id": "t2_v1",
+      "instruction": "C walks to the tall cabinet and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B02_01__t2_v2__seed1",
+      "event_id": "B02_01",
+      "family_id": "B02",
+      "group": "B",
+      "zone_id": "Z3",
+      "variant_id": "t2_v2",
+      "instruction": "C walks to the tall cabinet and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B02_02__t1_v1__seed1",
+      "event_id": "B02_02",
+      "family_id": "B02",
+      "group": "B",
+      "zone_id": "Z4",
+      "variant_id": "t1_v1",
+      "instruction": "C walks to the entrance door and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B02_02__t1_v2__seed1",
+      "event_id": "B02_02",
+      "family_id": "B02",
+      "group": "B",
+      "zone_id": "Z4",
+      "variant_id": "t1_v2",
+      "instruction": "C walks to the entrance door and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B02_02__t2_v1__seed1",
+      "event_id": "B02_02",
+      "family_id": "B02",
+      "group": "B",
+      "zone_id": "Z4",
+      "variant_id": "t2_v1",
+      "instruction": "C walks to the tall cabinet and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B02_02__t2_v2__seed1",
+      "event_id": "B02_02",
+      "family_id": "B02",
+      "group": "B",
+      "zone_id": "Z4",
+      "variant_id": "t2_v2",
+      "instruction": "C walks to the tall cabinet and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B03_01__t1_v1__seed1",
+      "event_id": "B03_01",
+      "family_id": "B03",
+      "group": "B",
+      "zone_id": "Z2",
+      "variant_id": "t1_v1",
+      "instruction": "C walks up to the round coffee table and stops beside it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B03_01__t1_v2__seed1",
+      "event_id": "B03_01",
+      "family_id": "B03",
+      "group": "B",
+      "zone_id": "Z2",
+      "variant_id": "t1_v2",
+      "instruction": "C walks up to the round coffee table and stops beside it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B03_01__t2_v1__seed1",
+      "event_id": "B03_01",
+      "family_id": "B03",
+      "group": "B",
+      "zone_id": "Z2",
+      "variant_id": "t2_v1",
+      "instruction": "C walks to the entrance door and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B03_01__t2_v2__seed1",
+      "event_id": "B03_01",
+      "family_id": "B03",
+      "group": "B",
+      "zone_id": "Z2",
+      "variant_id": "t2_v2",
+      "instruction": "C walks to the entrance door and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B03_02__t1_v1__seed1",
+      "event_id": "B03_02",
+      "family_id": "B03",
+      "group": "B",
+      "zone_id": "Z6",
+      "variant_id": "t1_v1",
+      "instruction": "C walks up to the round coffee table and stops beside it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B03_02__t1_v2__seed1",
+      "event_id": "B03_02",
+      "family_id": "B03",
+      "group": "B",
+      "zone_id": "Z6",
+      "variant_id": "t1_v2",
+      "instruction": "C walks up to the round coffee table and stops beside it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B03_02__t2_v1__seed1",
+      "event_id": "B03_02",
+      "family_id": "B03",
+      "group": "B",
+      "zone_id": "Z6",
+      "variant_id": "t2_v1",
+      "instruction": "C walks to the entrance door and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B03_02__t2_v2__seed1",
+      "event_id": "B03_02",
+      "family_id": "B03",
+      "group": "B",
+      "zone_id": "Z6",
+      "variant_id": "t2_v2",
+      "instruction": "C walks to the entrance door and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B04_01__t1_v1__seed1",
+      "event_id": "B04_01",
+      "family_id": "B04",
+      "group": "B",
+      "zone_id": "Z5",
+      "variant_id": "t1_v1",
+      "instruction": "C walks up to the armchair nearest the entrance and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B04_01__t1_v2__seed1",
+      "event_id": "B04_01",
+      "family_id": "B04",
+      "group": "B",
+      "zone_id": "Z5",
+      "variant_id": "t1_v2",
+      "instruction": "C walks up to the armchair nearest the entrance and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B04_01__t2_v1__seed1",
+      "event_id": "B04_01",
+      "family_id": "B04",
+      "group": "B",
+      "zone_id": "Z5",
+      "variant_id": "t2_v1",
+      "instruction": "C walks up to the long sofa nearest the entrance and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B04_01__t2_v2__seed1",
+      "event_id": "B04_01",
+      "family_id": "B04",
+      "group": "B",
+      "zone_id": "Z5",
+      "variant_id": "t2_v2",
+      "instruction": "C walks up to the long sofa nearest the entrance and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B04_02__t1_v1__seed1",
+      "event_id": "B04_02",
+      "family_id": "B04",
+      "group": "B",
+      "zone_id": "Z6",
+      "variant_id": "t1_v1",
+      "instruction": "C walks up to the armchair nearest the entrance and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B04_02__t1_v2__seed1",
+      "event_id": "B04_02",
+      "family_id": "B04",
+      "group": "B",
+      "zone_id": "Z6",
+      "variant_id": "t1_v2",
+      "instruction": "C walks up to the armchair nearest the entrance and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B04_02__t2_v1__seed1",
+      "event_id": "B04_02",
+      "family_id": "B04",
+      "group": "B",
+      "zone_id": "Z6",
+      "variant_id": "t2_v1",
+      "instruction": "C walks up to the long sofa nearest the entrance and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B04_02__t2_v2__seed1",
+      "event_id": "B04_02",
+      "family_id": "B04",
+      "group": "B",
+      "zone_id": "Z6",
+      "variant_id": "t2_v2",
+      "instruction": "C walks up to the long sofa nearest the entrance and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B05_01__t1_v1__seed1",
+      "event_id": "B05_01",
+      "family_id": "B05",
+      "group": "B",
+      "zone_id": "Z1",
+      "variant_id": "t1_v1",
+      "instruction": "C turns in place to face the refrigerator and keeps facing it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B05_01__t1_v2__seed1",
+      "event_id": "B05_01",
+      "family_id": "B05",
+      "group": "B",
+      "zone_id": "Z1",
+      "variant_id": "t1_v2",
+      "instruction": "C turns in place to face the refrigerator and keeps facing it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B05_01__t2_v1__seed1",
+      "event_id": "B05_01",
+      "family_id": "B05",
+      "group": "B",
+      "zone_id": "Z1",
+      "variant_id": "t2_v1",
+      "instruction": "C turns in place to face the entrance door and keeps facing it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B05_01__t2_v2__seed1",
+      "event_id": "B05_01",
+      "family_id": "B05",
+      "group": "B",
+      "zone_id": "Z1",
+      "variant_id": "t2_v2",
+      "instruction": "C turns in place to face the entrance door and keeps facing it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B05_02__t1_v1__seed1",
+      "event_id": "B05_02",
+      "family_id": "B05",
+      "group": "B",
+      "zone_id": "Z2",
+      "variant_id": "t1_v1",
+      "instruction": "C turns in place to face the refrigerator and keeps facing it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B05_02__t1_v2__seed1",
+      "event_id": "B05_02",
+      "family_id": "B05",
+      "group": "B",
+      "zone_id": "Z2",
+      "variant_id": "t1_v2",
+      "instruction": "C turns in place to face the refrigerator and keeps facing it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B05_02__t2_v1__seed1",
+      "event_id": "B05_02",
+      "family_id": "B05",
+      "group": "B",
+      "zone_id": "Z2",
+      "variant_id": "t2_v1",
+      "instruction": "C turns in place to face the entrance door and keeps facing it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B05_02__t2_v2__seed1",
+      "event_id": "B05_02",
+      "family_id": "B05",
+      "group": "B",
+      "zone_id": "Z2",
+      "variant_id": "t2_v2",
+      "instruction": "C turns in place to face the entrance door and keeps facing it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B06_01__t1_v1__seed1",
+      "event_id": "B06_01",
+      "family_id": "B06",
+      "group": "B",
+      "zone_id": "Z4",
+      "variant_id": "t1_v1",
+      "instruction": "C walks onto the rug and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B06_01__t1_v2__seed1",
+      "event_id": "B06_01",
+      "family_id": "B06",
+      "group": "B",
+      "zone_id": "Z4",
+      "variant_id": "t1_v2",
+      "instruction": "C walks onto the rug and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B06_01__t2_v1__seed1",
+      "event_id": "B06_01",
+      "family_id": "B06",
+      "group": "B",
+      "zone_id": "Z4",
+      "variant_id": "t2_v1",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B06_01__t2_v2__seed1",
+      "event_id": "B06_01",
+      "family_id": "B06",
+      "group": "B",
+      "zone_id": "Z4",
+      "variant_id": "t2_v2",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B06_02__t1_v1__seed1",
+      "event_id": "B06_02",
+      "family_id": "B06",
+      "group": "B",
+      "zone_id": "Z5",
+      "variant_id": "t1_v1",
+      "instruction": "C walks onto the rug and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B06_02__t1_v2__seed1",
+      "event_id": "B06_02",
+      "family_id": "B06",
+      "group": "B",
+      "zone_id": "Z5",
+      "variant_id": "t1_v2",
+      "instruction": "C walks onto the rug and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B06_02__t2_v1__seed1",
+      "event_id": "B06_02",
+      "family_id": "B06",
+      "group": "B",
+      "zone_id": "Z5",
+      "variant_id": "t2_v1",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "B06_02__t2_v2__seed1",
+      "event_id": "B06_02",
+      "family_id": "B06",
+      "group": "B",
+      "zone_id": "Z5",
+      "variant_id": "t2_v2",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C01_01__s1_p1__seed1",
+      "event_id": "C01_01",
+      "family_id": "C01",
+      "group": "C",
+      "zone_id": "Z5",
+      "variant_id": "s1_p1",
+      "instruction": "C walks to the left side of the coffee table, relative to C's initial facing direction, and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C01_01__s1_p2__seed1",
+      "event_id": "C01_01",
+      "family_id": "C01",
+      "group": "C",
+      "zone_id": "Z5",
+      "variant_id": "s1_p2",
+      "instruction": "C stops on the side of the coffee table that is to the left relative to C's initial facing direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C01_01__s2_p1__seed1",
+      "event_id": "C01_01",
+      "family_id": "C01",
+      "group": "C",
+      "zone_id": "Z5",
+      "variant_id": "s2_p1",
+      "instruction": "C walks to the right side of the coffee table, relative to C's initial facing direction, and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C01_01__s2_p2__seed1",
+      "event_id": "C01_01",
+      "family_id": "C01",
+      "group": "C",
+      "zone_id": "Z5",
+      "variant_id": "s2_p2",
+      "instruction": "C stops on the side of the coffee table that is to the right relative to C's initial facing direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C01_02__s1_p1__seed1",
+      "event_id": "C01_02",
+      "family_id": "C01",
+      "group": "C",
+      "zone_id": "Z6",
+      "variant_id": "s1_p1",
+      "instruction": "C walks to the left side of the coffee table, relative to C's initial facing direction, and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C01_02__s1_p2__seed1",
+      "event_id": "C01_02",
+      "family_id": "C01",
+      "group": "C",
+      "zone_id": "Z6",
+      "variant_id": "s1_p2",
+      "instruction": "C stops on the side of the coffee table that is to the left relative to C's initial facing direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C01_02__s2_p1__seed1",
+      "event_id": "C01_02",
+      "family_id": "C01",
+      "group": "C",
+      "zone_id": "Z6",
+      "variant_id": "s2_p1",
+      "instruction": "C walks to the right side of the coffee table, relative to C's initial facing direction, and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C01_02__s2_p2__seed1",
+      "event_id": "C01_02",
+      "family_id": "C01",
+      "group": "C",
+      "zone_id": "Z6",
+      "variant_id": "s2_p2",
+      "instruction": "C stops on the side of the coffee table that is to the right relative to C's initial facing direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C02_01__s1_p1__seed1",
+      "event_id": "C02_01",
+      "family_id": "C02",
+      "group": "C",
+      "zone_id": "Z1",
+      "variant_id": "s1_p1",
+      "instruction": "C walks to the near side of the island table relative to the starting position and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C02_01__s1_p2__seed1",
+      "event_id": "C02_01",
+      "family_id": "C02",
+      "group": "C",
+      "zone_id": "Z1",
+      "variant_id": "s1_p2",
+      "instruction": "C stops beside the island table on the side nearer to where C started.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C02_01__s2_p1__seed1",
+      "event_id": "C02_01",
+      "family_id": "C02",
+      "group": "C",
+      "zone_id": "Z1",
+      "variant_id": "s2_p1",
+      "instruction": "C walks to the far side of the island table relative to the starting position and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C02_01__s2_p2__seed1",
+      "event_id": "C02_01",
+      "family_id": "C02",
+      "group": "C",
+      "zone_id": "Z1",
+      "variant_id": "s2_p2",
+      "instruction": "C stops beside the island table on the side farther from where C started.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C02_02__s1_p1__seed1",
+      "event_id": "C02_02",
+      "family_id": "C02",
+      "group": "C",
+      "zone_id": "Z2",
+      "variant_id": "s1_p1",
+      "instruction": "C walks to the near side of the island table relative to the starting position and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C02_02__s1_p2__seed1",
+      "event_id": "C02_02",
+      "family_id": "C02",
+      "group": "C",
+      "zone_id": "Z2",
+      "variant_id": "s1_p2",
+      "instruction": "C stops beside the island table on the side nearer to where C started.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C02_02__s2_p1__seed1",
+      "event_id": "C02_02",
+      "family_id": "C02",
+      "group": "C",
+      "zone_id": "Z2",
+      "variant_id": "s2_p1",
+      "instruction": "C walks to the far side of the island table relative to the starting position and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C02_02__s2_p2__seed1",
+      "event_id": "C02_02",
+      "family_id": "C02",
+      "group": "C",
+      "zone_id": "Z2",
+      "variant_id": "s2_p2",
+      "instruction": "C stops beside the island table on the side farther from where C started.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C03_01__s1_p1__seed1",
+      "event_id": "C03_01",
+      "family_id": "C03",
+      "group": "C",
+      "zone_id": "Z3",
+      "variant_id": "s1_p1",
+      "instruction": "C walks to the near side of the coffee table relative to the starting position and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C03_01__s1_p2__seed1",
+      "event_id": "C03_01",
+      "family_id": "C03",
+      "group": "C",
+      "zone_id": "Z3",
+      "variant_id": "s1_p2",
+      "instruction": "C stops beside the coffee table on the side nearer to where C started.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C03_01__s2_p1__seed1",
+      "event_id": "C03_01",
+      "family_id": "C03",
+      "group": "C",
+      "zone_id": "Z3",
+      "variant_id": "s2_p1",
+      "instruction": "C walks to the far side of the coffee table relative to the starting position and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C03_01__s2_p2__seed1",
+      "event_id": "C03_01",
+      "family_id": "C03",
+      "group": "C",
+      "zone_id": "Z3",
+      "variant_id": "s2_p2",
+      "instruction": "C stops beside the coffee table on the side farther from where C started.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C03_02__s1_p1__seed1",
+      "event_id": "C03_02",
+      "family_id": "C03",
+      "group": "C",
+      "zone_id": "Z6",
+      "variant_id": "s1_p1",
+      "instruction": "C walks to the near side of the coffee table relative to the starting position and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C03_02__s1_p2__seed1",
+      "event_id": "C03_02",
+      "family_id": "C03",
+      "group": "C",
+      "zone_id": "Z6",
+      "variant_id": "s1_p2",
+      "instruction": "C stops beside the coffee table on the side nearer to where C started.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C03_02__s2_p1__seed1",
+      "event_id": "C03_02",
+      "family_id": "C03",
+      "group": "C",
+      "zone_id": "Z6",
+      "variant_id": "s2_p1",
+      "instruction": "C walks to the far side of the coffee table relative to the starting position and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C03_02__s2_p2__seed1",
+      "event_id": "C03_02",
+      "family_id": "C03",
+      "group": "C",
+      "zone_id": "Z6",
+      "variant_id": "s2_p2",
+      "instruction": "C stops beside the coffee table on the side farther from where C started.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C04_01__s1_p1__seed1",
+      "event_id": "C04_01",
+      "family_id": "C04",
+      "group": "C",
+      "zone_id": "Z4",
+      "variant_id": "s1_p1",
+      "instruction": "C walks between the two armchairs and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C04_01__s1_p2__seed1",
+      "event_id": "C04_01",
+      "family_id": "C04",
+      "group": "C",
+      "zone_id": "Z4",
+      "variant_id": "s1_p2",
+      "instruction": "C stops in the open space separating the two armchairs.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C04_01__s2_p1__seed1",
+      "event_id": "C04_01",
+      "family_id": "C04",
+      "group": "C",
+      "zone_id": "Z4",
+      "variant_id": "s2_p1",
+      "instruction": "C walks to the left of both armchairs, relative to C's initial facing direction, and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C04_01__s2_p2__seed1",
+      "event_id": "C04_01",
+      "family_id": "C04",
+      "group": "C",
+      "zone_id": "Z4",
+      "variant_id": "s2_p2",
+      "instruction": "C stops in the region to the left of the two armchairs relative to C's initial facing direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C04_02__s1_p1__seed1",
+      "event_id": "C04_02",
+      "family_id": "C04",
+      "group": "C",
+      "zone_id": "Z5",
+      "variant_id": "s1_p1",
+      "instruction": "C walks between the two armchairs and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C04_02__s1_p2__seed1",
+      "event_id": "C04_02",
+      "family_id": "C04",
+      "group": "C",
+      "zone_id": "Z5",
+      "variant_id": "s1_p2",
+      "instruction": "C stops in the open space separating the two armchairs.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C04_02__s2_p1__seed1",
+      "event_id": "C04_02",
+      "family_id": "C04",
+      "group": "C",
+      "zone_id": "Z5",
+      "variant_id": "s2_p1",
+      "instruction": "C walks to the left of both armchairs, relative to C's initial facing direction, and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C04_02__s2_p2__seed1",
+      "event_id": "C04_02",
+      "family_id": "C04",
+      "group": "C",
+      "zone_id": "Z5",
+      "variant_id": "s2_p2",
+      "instruction": "C stops in the region to the left of the two armchairs relative to C's initial facing direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C05_01__s1_p1__seed1",
+      "event_id": "C05_01",
+      "family_id": "C05",
+      "group": "C",
+      "zone_id": "Z1",
+      "variant_id": "s1_p1",
+      "instruction": "C walks onto the rug and stops inside it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C05_01__s1_p2__seed1",
+      "event_id": "C05_01",
+      "family_id": "C05",
+      "group": "C",
+      "zone_id": "Z1",
+      "variant_id": "s1_p2",
+      "instruction": "C stops on the rug, away from its boundary.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C05_01__s2_p1__seed1",
+      "event_id": "C05_01",
+      "family_id": "C05",
+      "group": "C",
+      "zone_id": "Z1",
+      "variant_id": "s2_p1",
+      "instruction": "C walks up to the edge of the rug and stops just outside it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C05_01__s2_p2__seed1",
+      "event_id": "C05_01",
+      "family_id": "C05",
+      "group": "C",
+      "zone_id": "Z1",
+      "variant_id": "s2_p2",
+      "instruction": "C stops just outside the boundary of the rug.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C05_02__s1_p1__seed1",
+      "event_id": "C05_02",
+      "family_id": "C05",
+      "group": "C",
+      "zone_id": "Z4",
+      "variant_id": "s1_p1",
+      "instruction": "C walks onto the rug and stops inside it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C05_02__s1_p2__seed1",
+      "event_id": "C05_02",
+      "family_id": "C05",
+      "group": "C",
+      "zone_id": "Z4",
+      "variant_id": "s1_p2",
+      "instruction": "C stops on the rug, away from its boundary.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C05_02__s2_p1__seed1",
+      "event_id": "C05_02",
+      "family_id": "C05",
+      "group": "C",
+      "zone_id": "Z4",
+      "variant_id": "s2_p1",
+      "instruction": "C walks up to the edge of the rug and stops just outside it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C05_02__s2_p2__seed1",
+      "event_id": "C05_02",
+      "family_id": "C05",
+      "group": "C",
+      "zone_id": "Z4",
+      "variant_id": "s2_p2",
+      "instruction": "C stops just outside the boundary of the rug.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C06_01__s1_p1__seed1",
+      "event_id": "C06_01",
+      "family_id": "C06",
+      "group": "C",
+      "zone_id": "Z2",
+      "variant_id": "s1_p1",
+      "instruction": "C turns in place to face the decorative wall display and holds that direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C06_01__s1_p2__seed1",
+      "event_id": "C06_01",
+      "family_id": "C06",
+      "group": "C",
+      "zone_id": "Z2",
+      "variant_id": "s1_p2",
+      "instruction": "C stays in the same spot and turns toward the decorative wall display, then keeps facing it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C06_01__s2_p1__seed1",
+      "event_id": "C06_01",
+      "family_id": "C06",
+      "group": "C",
+      "zone_id": "Z2",
+      "variant_id": "s2_p1",
+      "instruction": "C turns in place to face away from the decorative wall display and holds that direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C06_01__s2_p2__seed1",
+      "event_id": "C06_01",
+      "family_id": "C06",
+      "group": "C",
+      "zone_id": "Z2",
+      "variant_id": "s2_p2",
+      "instruction": "C stays in the same spot and turns so the decorative wall display is behind C, then holds that direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C06_02__s1_p1__seed1",
+      "event_id": "C06_02",
+      "family_id": "C06",
+      "group": "C",
+      "zone_id": "Z3",
+      "variant_id": "s1_p1",
+      "instruction": "C turns in place to face the decorative wall display and holds that direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C06_02__s1_p2__seed1",
+      "event_id": "C06_02",
+      "family_id": "C06",
+      "group": "C",
+      "zone_id": "Z3",
+      "variant_id": "s1_p2",
+      "instruction": "C stays in the same spot and turns toward the decorative wall display, then keeps facing it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C06_02__s2_p1__seed1",
+      "event_id": "C06_02",
+      "family_id": "C06",
+      "group": "C",
+      "zone_id": "Z3",
+      "variant_id": "s2_p1",
+      "instruction": "C turns in place to face away from the decorative wall display and holds that direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "C06_02__s2_p2__seed1",
+      "event_id": "C06_02",
+      "family_id": "C06",
+      "group": "C",
+      "zone_id": "Z3",
+      "variant_id": "s2_p2",
+      "instruction": "C stays in the same spot and turns so the decorative wall display is behind C, then holds that direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D01_01__s1_p1__seed1",
+      "event_id": "D01_01",
+      "family_id": "D01",
+      "group": "D",
+      "zone_id": "Z2",
+      "variant_id": "s1_p1",
+      "instruction": "C walks to the island table and stops, then raises the right arm above the head for one second and lowers it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D01_01__s1_p2__seed1",
+      "event_id": "D01_01",
+      "family_id": "D01",
+      "group": "D",
+      "zone_id": "Z2",
+      "variant_id": "s1_p2",
+      "instruction": "C first stops in front of the island table, then lifts the right arm overhead, holds it up for one second, and puts it down.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D01_01__s2_p1__seed1",
+      "event_id": "D01_01",
+      "family_id": "D01",
+      "group": "D",
+      "zone_id": "Z2",
+      "variant_id": "s2_p1",
+      "instruction": "C raises the right arm above the head for one second and lowers it, then walks to the island table and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D01_01__s2_p2__seed1",
+      "event_id": "D01_01",
+      "family_id": "D01",
+      "group": "D",
+      "zone_id": "Z2",
+      "variant_id": "s2_p2",
+      "instruction": "C first lifts the right arm overhead, holds it up for one second, and puts it down, then stops in front of the island table.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D01_02__s1_p1__seed1",
+      "event_id": "D01_02",
+      "family_id": "D01",
+      "group": "D",
+      "zone_id": "Z3",
+      "variant_id": "s1_p1",
+      "instruction": "C walks to the island table and stops, then raises the right arm above the head for one second and lowers it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D01_02__s1_p2__seed1",
+      "event_id": "D01_02",
+      "family_id": "D01",
+      "group": "D",
+      "zone_id": "Z3",
+      "variant_id": "s1_p2",
+      "instruction": "C first stops in front of the island table, then lifts the right arm overhead, holds it up for one second, and puts it down.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D01_02__s2_p1__seed1",
+      "event_id": "D01_02",
+      "family_id": "D01",
+      "group": "D",
+      "zone_id": "Z3",
+      "variant_id": "s2_p1",
+      "instruction": "C raises the right arm above the head for one second and lowers it, then walks to the island table and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D01_02__s2_p2__seed1",
+      "event_id": "D01_02",
+      "family_id": "D01",
+      "group": "D",
+      "zone_id": "Z3",
+      "variant_id": "s2_p2",
+      "instruction": "C first lifts the right arm overhead, holds it up for one second, and puts it down, then stops in front of the island table.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D02_01__s1_p1__seed1",
+      "event_id": "D02_01",
+      "family_id": "D02",
+      "group": "D",
+      "zone_id": "Z1",
+      "variant_id": "s1_p1",
+      "instruction": "C turns in place to face the entrance door, then squats down and stays crouched.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D02_01__s1_p2__seed1",
+      "event_id": "D02_01",
+      "family_id": "D02",
+      "group": "D",
+      "zone_id": "Z1",
+      "variant_id": "s1_p2",
+      "instruction": "C first faces the entrance door without walking, then lowers into a squat and holds it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D02_01__s2_p1__seed1",
+      "event_id": "D02_01",
+      "family_id": "D02",
+      "group": "D",
+      "zone_id": "Z1",
+      "variant_id": "s2_p1",
+      "instruction": "C squats down first, then turns in place to face the entrance door while staying crouched.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D02_01__s2_p2__seed1",
+      "event_id": "D02_01",
+      "family_id": "D02",
+      "group": "D",
+      "zone_id": "Z1",
+      "variant_id": "s2_p2",
+      "instruction": "C first lowers into a squat, then changes facing direction toward the entrance door without walking or standing up.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D02_02__s1_p1__seed1",
+      "event_id": "D02_02",
+      "family_id": "D02",
+      "group": "D",
+      "zone_id": "Z6",
+      "variant_id": "s1_p1",
+      "instruction": "C turns in place to face the entrance door, then squats down and stays crouched.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D02_02__s1_p2__seed1",
+      "event_id": "D02_02",
+      "family_id": "D02",
+      "group": "D",
+      "zone_id": "Z6",
+      "variant_id": "s1_p2",
+      "instruction": "C first faces the entrance door without walking, then lowers into a squat and holds it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D02_02__s2_p1__seed1",
+      "event_id": "D02_02",
+      "family_id": "D02",
+      "group": "D",
+      "zone_id": "Z6",
+      "variant_id": "s2_p1",
+      "instruction": "C squats down first, then turns in place to face the entrance door while staying crouched.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D02_02__s2_p2__seed1",
+      "event_id": "D02_02",
+      "family_id": "D02",
+      "group": "D",
+      "zone_id": "Z6",
+      "variant_id": "s2_p2",
+      "instruction": "C first lowers into a squat, then changes facing direction toward the entrance door without walking or standing up.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D03_01__s1_p1__seed1",
+      "event_id": "D03_01",
+      "family_id": "D03",
+      "group": "D",
+      "zone_id": "Z2",
+      "variant_id": "s1_p1",
+      "instruction": "C walks to the refrigerator and stops there briefly, then walks to the island table and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D03_01__s1_p2__seed1",
+      "event_id": "D03_01",
+      "family_id": "D03",
+      "group": "D",
+      "zone_id": "Z2",
+      "variant_id": "s1_p2",
+      "instruction": "C first stops in front of the refrigerator, then goes to the island table and stands still in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D03_01__s2_p1__seed1",
+      "event_id": "D03_01",
+      "family_id": "D03",
+      "group": "D",
+      "zone_id": "Z2",
+      "variant_id": "s2_p1",
+      "instruction": "C walks to the island table and stops there briefly, then walks to the refrigerator and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D03_01__s2_p2__seed1",
+      "event_id": "D03_01",
+      "family_id": "D03",
+      "group": "D",
+      "zone_id": "Z2",
+      "variant_id": "s2_p2",
+      "instruction": "C first stops in front of the island table, then goes to the refrigerator and stands still in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D03_02__s1_p1__seed1",
+      "event_id": "D03_02",
+      "family_id": "D03",
+      "group": "D",
+      "zone_id": "Z3",
+      "variant_id": "s1_p1",
+      "instruction": "C walks to the refrigerator and stops there briefly, then walks to the island table and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D03_02__s1_p2__seed1",
+      "event_id": "D03_02",
+      "family_id": "D03",
+      "group": "D",
+      "zone_id": "Z3",
+      "variant_id": "s1_p2",
+      "instruction": "C first stops in front of the refrigerator, then goes to the island table and stands still in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D03_02__s2_p1__seed1",
+      "event_id": "D03_02",
+      "family_id": "D03",
+      "group": "D",
+      "zone_id": "Z3",
+      "variant_id": "s2_p1",
+      "instruction": "C walks to the island table and stops there briefly, then walks to the refrigerator and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D03_02__s2_p2__seed1",
+      "event_id": "D03_02",
+      "family_id": "D03",
+      "group": "D",
+      "zone_id": "Z3",
+      "variant_id": "s2_p2",
+      "instruction": "C first stops in front of the island table, then goes to the refrigerator and stands still in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D04_01__s1_p1__seed1",
+      "event_id": "D04_01",
+      "family_id": "D04",
+      "group": "D",
+      "zone_id": "Z1",
+      "variant_id": "s1_p1",
+      "instruction": "C raises the left arm above the head for one second and lowers it, then raises the right arm above the head for one second and lowers it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D04_01__s1_p2__seed1",
+      "event_id": "D04_01",
+      "family_id": "D04",
+      "group": "D",
+      "zone_id": "Z1",
+      "variant_id": "s1_p2",
+      "instruction": "C first lifts the left arm overhead, holds it up for one second, and puts it down; C then does the same with the right arm.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D04_01__s2_p1__seed1",
+      "event_id": "D04_01",
+      "family_id": "D04",
+      "group": "D",
+      "zone_id": "Z1",
+      "variant_id": "s2_p1",
+      "instruction": "C raises the right arm above the head for one second and lowers it, then raises the left arm above the head for one second and lowers it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D04_01__s2_p2__seed1",
+      "event_id": "D04_01",
+      "family_id": "D04",
+      "group": "D",
+      "zone_id": "Z1",
+      "variant_id": "s2_p2",
+      "instruction": "C first lifts the right arm overhead, holds it up for one second, and puts it down; C then does the same with the left arm.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D04_02__s1_p1__seed1",
+      "event_id": "D04_02",
+      "family_id": "D04",
+      "group": "D",
+      "zone_id": "Z4",
+      "variant_id": "s1_p1",
+      "instruction": "C raises the left arm above the head for one second and lowers it, then raises the right arm above the head for one second and lowers it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D04_02__s1_p2__seed1",
+      "event_id": "D04_02",
+      "family_id": "D04",
+      "group": "D",
+      "zone_id": "Z4",
+      "variant_id": "s1_p2",
+      "instruction": "C first lifts the left arm overhead, holds it up for one second, and puts it down; C then does the same with the right arm.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D04_02__s2_p1__seed1",
+      "event_id": "D04_02",
+      "family_id": "D04",
+      "group": "D",
+      "zone_id": "Z4",
+      "variant_id": "s2_p1",
+      "instruction": "C raises the right arm above the head for one second and lowers it, then raises the left arm above the head for one second and lowers it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D04_02__s2_p2__seed1",
+      "event_id": "D04_02",
+      "family_id": "D04",
+      "group": "D",
+      "zone_id": "Z4",
+      "variant_id": "s2_p2",
+      "instruction": "C first lifts the right arm overhead, holds it up for one second, and puts it down; C then does the same with the left arm.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D05_01__s1_p1__seed1",
+      "event_id": "D05_01",
+      "family_id": "D05",
+      "group": "D",
+      "zone_id": "Z4",
+      "variant_id": "s1_p1",
+      "instruction": "C turns left by 90 degrees in place, pauses, then turns right by 90 degrees and holds the final direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D05_01__s1_p2__seed1",
+      "event_id": "D05_01",
+      "family_id": "D05",
+      "group": "D",
+      "zone_id": "Z4",
+      "variant_id": "s1_p2",
+      "instruction": "C first makes a 90-degree left turn in place and pauses, then makes a 90-degree right turn and stays facing that way.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D05_01__s2_p1__seed1",
+      "event_id": "D05_01",
+      "family_id": "D05",
+      "group": "D",
+      "zone_id": "Z4",
+      "variant_id": "s2_p1",
+      "instruction": "C turns right by 90 degrees in place, pauses, then turns left by 90 degrees and holds the final direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D05_01__s2_p2__seed1",
+      "event_id": "D05_01",
+      "family_id": "D05",
+      "group": "D",
+      "zone_id": "Z4",
+      "variant_id": "s2_p2",
+      "instruction": "C first makes a 90-degree right turn in place and pauses, then makes a 90-degree left turn and stays facing that way.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D05_02__s1_p1__seed1",
+      "event_id": "D05_02",
+      "family_id": "D05",
+      "group": "D",
+      "zone_id": "Z5",
+      "variant_id": "s1_p1",
+      "instruction": "C turns left by 90 degrees in place, pauses, then turns right by 90 degrees and holds the final direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D05_02__s1_p2__seed1",
+      "event_id": "D05_02",
+      "family_id": "D05",
+      "group": "D",
+      "zone_id": "Z5",
+      "variant_id": "s1_p2",
+      "instruction": "C first makes a 90-degree left turn in place and pauses, then makes a 90-degree right turn and stays facing that way.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D05_02__s2_p1__seed1",
+      "event_id": "D05_02",
+      "family_id": "D05",
+      "group": "D",
+      "zone_id": "Z5",
+      "variant_id": "s2_p1",
+      "instruction": "C turns right by 90 degrees in place, pauses, then turns left by 90 degrees and holds the final direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D05_02__s2_p2__seed1",
+      "event_id": "D05_02",
+      "family_id": "D05",
+      "group": "D",
+      "zone_id": "Z5",
+      "variant_id": "s2_p2",
+      "instruction": "C first makes a 90-degree right turn in place and pauses, then makes a 90-degree left turn and stays facing that way.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D06_01__s1_p1__seed1",
+      "event_id": "D06_01",
+      "family_id": "D06",
+      "group": "D",
+      "zone_id": "Z5",
+      "variant_id": "s1_p1",
+      "instruction": "C turns right by 90 degrees in place, then raises the left arm above the head and keeps it raised.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D06_01__s1_p2__seed1",
+      "event_id": "D06_01",
+      "family_id": "D06",
+      "group": "D",
+      "zone_id": "Z5",
+      "variant_id": "s1_p2",
+      "instruction": "C first makes a 90-degree right turn without walking, then lifts the left arm overhead and holds it up.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D06_01__s2_p1__seed1",
+      "event_id": "D06_01",
+      "family_id": "D06",
+      "group": "D",
+      "zone_id": "Z5",
+      "variant_id": "s2_p1",
+      "instruction": "C raises the left arm above the head first and keeps it raised, then turns right by 90 degrees in place.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D06_01__s2_p2__seed1",
+      "event_id": "D06_01",
+      "family_id": "D06",
+      "group": "D",
+      "zone_id": "Z5",
+      "variant_id": "s2_p2",
+      "instruction": "C first lifts the left arm overhead and holds it up, then makes a 90-degree right turn without walking.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D06_02__s1_p1__seed1",
+      "event_id": "D06_02",
+      "family_id": "D06",
+      "group": "D",
+      "zone_id": "Z6",
+      "variant_id": "s1_p1",
+      "instruction": "C turns right by 90 degrees in place, then raises the left arm above the head and keeps it raised.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D06_02__s1_p2__seed1",
+      "event_id": "D06_02",
+      "family_id": "D06",
+      "group": "D",
+      "zone_id": "Z6",
+      "variant_id": "s1_p2",
+      "instruction": "C first makes a 90-degree right turn without walking, then lifts the left arm overhead and holds it up.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D06_02__s2_p1__seed1",
+      "event_id": "D06_02",
+      "family_id": "D06",
+      "group": "D",
+      "zone_id": "Z6",
+      "variant_id": "s2_p1",
+      "instruction": "C raises the left arm above the head first and keeps it raised, then turns right by 90 degrees in place.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "D06_02__s2_p2__seed1",
+      "event_id": "D06_02",
+      "family_id": "D06",
+      "group": "D",
+      "zone_id": "Z6",
+      "variant_id": "s2_p2",
+      "instruction": "C first lifts the left arm overhead and holds it up, then makes a 90-degree right turn without walking.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E01_01__continue__seed1",
+      "event_id": "E01_01",
+      "family_id": "E01",
+      "group": "E",
+      "zone_id": "Z3",
+      "variant_id": "continue",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E01_01__pause__seed1",
+      "event_id": "E01_01",
+      "family_id": "E01",
+      "group": "E",
+      "zone_id": "Z3",
+      "variant_id": "pause",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops walking now and remains standing still."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E01_01__replace__seed1",
+      "event_id": "E01_01",
+      "family_id": "E01",
+      "group": "E",
+      "zone_id": "Z3",
+      "variant_id": "replace",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C walks to the island table and stops in front of it."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E01_01__pause_resume__seed1",
+      "event_id": "E01_01",
+      "family_id": "E01",
+      "group": "E",
+      "zone_id": "Z3",
+      "variant_id": "pause_resume",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops walking now and remains standing still."
+        },
+        {
+          "time_s": 9.0,
+          "instruction": "C walks to the refrigerator and stops in front of it."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E01_02__continue__seed1",
+      "event_id": "E01_02",
+      "family_id": "E01",
+      "group": "E",
+      "zone_id": "Z4",
+      "variant_id": "continue",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E01_02__pause__seed1",
+      "event_id": "E01_02",
+      "family_id": "E01",
+      "group": "E",
+      "zone_id": "Z4",
+      "variant_id": "pause",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops walking now and remains standing still."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E01_02__replace__seed1",
+      "event_id": "E01_02",
+      "family_id": "E01",
+      "group": "E",
+      "zone_id": "Z4",
+      "variant_id": "replace",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C walks to the island table and stops in front of it."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E01_02__pause_resume__seed1",
+      "event_id": "E01_02",
+      "family_id": "E01",
+      "group": "E",
+      "zone_id": "Z4",
+      "variant_id": "pause_resume",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops walking now and remains standing still."
+        },
+        {
+          "time_s": 9.0,
+          "instruction": "C walks to the refrigerator and stops in front of it."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E02_01__continue__seed1",
+      "event_id": "E02_01",
+      "family_id": "E02",
+      "group": "E",
+      "zone_id": "Z5",
+      "variant_id": "continue",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E02_01__pause__seed1",
+      "event_id": "E02_01",
+      "family_id": "E02",
+      "group": "E",
+      "zone_id": "Z5",
+      "variant_id": "pause",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops walking now and remains standing still."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E02_01__replace__seed1",
+      "event_id": "E02_01",
+      "family_id": "E02",
+      "group": "E",
+      "zone_id": "Z5",
+      "variant_id": "replace",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C walks to the entrance door and stops in front of it."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E02_01__pause_resume__seed1",
+      "event_id": "E02_01",
+      "family_id": "E02",
+      "group": "E",
+      "zone_id": "Z5",
+      "variant_id": "pause_resume",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops walking now and remains standing still."
+        },
+        {
+          "time_s": 9.0,
+          "instruction": "C walks to the island table and stops in front of it."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E02_02__continue__seed1",
+      "event_id": "E02_02",
+      "family_id": "E02",
+      "group": "E",
+      "zone_id": "Z6",
+      "variant_id": "continue",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E02_02__pause__seed1",
+      "event_id": "E02_02",
+      "family_id": "E02",
+      "group": "E",
+      "zone_id": "Z6",
+      "variant_id": "pause",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops walking now and remains standing still."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E02_02__replace__seed1",
+      "event_id": "E02_02",
+      "family_id": "E02",
+      "group": "E",
+      "zone_id": "Z6",
+      "variant_id": "replace",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C walks to the entrance door and stops in front of it."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E02_02__pause_resume__seed1",
+      "event_id": "E02_02",
+      "family_id": "E02",
+      "group": "E",
+      "zone_id": "Z6",
+      "variant_id": "pause_resume",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops walking now and remains standing still."
+        },
+        {
+          "time_s": 9.0,
+          "instruction": "C walks to the island table and stops in front of it."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E03_01__continue__seed1",
+      "event_id": "E03_01",
+      "family_id": "E03",
+      "group": "E",
+      "zone_id": "Z1",
+      "variant_id": "continue",
+      "instruction": "C walks up to the round coffee table and stops beside it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E03_01__pause__seed1",
+      "event_id": "E03_01",
+      "family_id": "E03",
+      "group": "E",
+      "zone_id": "Z1",
+      "variant_id": "pause",
+      "instruction": "C walks up to the round coffee table and stops beside it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops walking now and remains standing still."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E03_01__replace__seed1",
+      "event_id": "E03_01",
+      "family_id": "E03",
+      "group": "E",
+      "zone_id": "Z1",
+      "variant_id": "replace",
+      "instruction": "C walks up to the round coffee table and stops beside it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C walks to the armchair nearest the entrance and stops in front of it."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E03_01__pause_resume__seed1",
+      "event_id": "E03_01",
+      "family_id": "E03",
+      "group": "E",
+      "zone_id": "Z1",
+      "variant_id": "pause_resume",
+      "instruction": "C walks up to the round coffee table and stops beside it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops walking now and remains standing still."
+        },
+        {
+          "time_s": 9.0,
+          "instruction": "C walks up to the round coffee table and stops beside it."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E03_02__continue__seed1",
+      "event_id": "E03_02",
+      "family_id": "E03",
+      "group": "E",
+      "zone_id": "Z4",
+      "variant_id": "continue",
+      "instruction": "C walks up to the round coffee table and stops beside it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E03_02__pause__seed1",
+      "event_id": "E03_02",
+      "family_id": "E03",
+      "group": "E",
+      "zone_id": "Z4",
+      "variant_id": "pause",
+      "instruction": "C walks up to the round coffee table and stops beside it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops walking now and remains standing still."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E03_02__replace__seed1",
+      "event_id": "E03_02",
+      "family_id": "E03",
+      "group": "E",
+      "zone_id": "Z4",
+      "variant_id": "replace",
+      "instruction": "C walks up to the round coffee table and stops beside it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C walks to the armchair nearest the entrance and stops in front of it."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E03_02__pause_resume__seed1",
+      "event_id": "E03_02",
+      "family_id": "E03",
+      "group": "E",
+      "zone_id": "Z4",
+      "variant_id": "pause_resume",
+      "instruction": "C walks up to the round coffee table and stops beside it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops walking now and remains standing still."
+        },
+        {
+          "time_s": 9.0,
+          "instruction": "C walks up to the round coffee table and stops beside it."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E04_01__continue__seed1",
+      "event_id": "E04_01",
+      "family_id": "E04",
+      "group": "E",
+      "zone_id": "Z3",
+      "variant_id": "continue",
+      "instruction": "C walks to the entrance door and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E04_01__pause__seed1",
+      "event_id": "E04_01",
+      "family_id": "E04",
+      "group": "E",
+      "zone_id": "Z3",
+      "variant_id": "pause",
+      "instruction": "C walks to the entrance door and stops in front of it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops walking now and remains standing still."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E04_01__replace__seed1",
+      "event_id": "E04_01",
+      "family_id": "E04",
+      "group": "E",
+      "zone_id": "Z3",
+      "variant_id": "replace",
+      "instruction": "C walks to the entrance door and stops in front of it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C walks to the long sofa nearest the entrance and stops in front of it."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E04_01__pause_resume__seed1",
+      "event_id": "E04_01",
+      "family_id": "E04",
+      "group": "E",
+      "zone_id": "Z3",
+      "variant_id": "pause_resume",
+      "instruction": "C walks to the entrance door and stops in front of it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops walking now and remains standing still."
+        },
+        {
+          "time_s": 9.0,
+          "instruction": "C walks to the entrance door and stops in front of it."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E04_02__continue__seed1",
+      "event_id": "E04_02",
+      "family_id": "E04",
+      "group": "E",
+      "zone_id": "Z6",
+      "variant_id": "continue",
+      "instruction": "C walks to the entrance door and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E04_02__pause__seed1",
+      "event_id": "E04_02",
+      "family_id": "E04",
+      "group": "E",
+      "zone_id": "Z6",
+      "variant_id": "pause",
+      "instruction": "C walks to the entrance door and stops in front of it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops walking now and remains standing still."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E04_02__replace__seed1",
+      "event_id": "E04_02",
+      "family_id": "E04",
+      "group": "E",
+      "zone_id": "Z6",
+      "variant_id": "replace",
+      "instruction": "C walks to the entrance door and stops in front of it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C walks to the long sofa nearest the entrance and stops in front of it."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E04_02__pause_resume__seed1",
+      "event_id": "E04_02",
+      "family_id": "E04",
+      "group": "E",
+      "zone_id": "Z6",
+      "variant_id": "pause_resume",
+      "instruction": "C walks to the entrance door and stops in front of it.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops walking now and remains standing still."
+        },
+        {
+          "time_s": 9.0,
+          "instruction": "C walks to the entrance door and stops in front of it."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E05_01__continue__seed1",
+      "event_id": "E05_01",
+      "family_id": "E05",
+      "group": "E",
+      "zone_id": "Z1",
+      "variant_id": "continue",
+      "instruction": "C raises the right arm above the head and keeps it raised, with the left arm down.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E05_01__pause__seed1",
+      "event_id": "E05_01",
+      "family_id": "E05",
+      "group": "E",
+      "zone_id": "Z1",
+      "variant_id": "pause",
+      "instruction": "C raises the right arm above the head and keeps it raised, with the left arm down.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C lowers the right arm and keeps both arms down."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E05_01__replace__seed1",
+      "event_id": "E05_01",
+      "family_id": "E05",
+      "group": "E",
+      "zone_id": "Z1",
+      "variant_id": "replace",
+      "instruction": "C raises the right arm above the head and keeps it raised, with the left arm down.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C lowers the right arm, then raises the left arm above the head and keeps it raised."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E05_01__pause_resume__seed1",
+      "event_id": "E05_01",
+      "family_id": "E05",
+      "group": "E",
+      "zone_id": "Z1",
+      "variant_id": "pause_resume",
+      "instruction": "C raises the right arm above the head and keeps it raised, with the left arm down.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C lowers the right arm and keeps both arms down."
+        },
+        {
+          "time_s": 9.0,
+          "instruction": "C raises the right arm above the head and keeps it raised, with the left arm down."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E05_02__continue__seed1",
+      "event_id": "E05_02",
+      "family_id": "E05",
+      "group": "E",
+      "zone_id": "Z2",
+      "variant_id": "continue",
+      "instruction": "C raises the right arm above the head and keeps it raised, with the left arm down.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E05_02__pause__seed1",
+      "event_id": "E05_02",
+      "family_id": "E05",
+      "group": "E",
+      "zone_id": "Z2",
+      "variant_id": "pause",
+      "instruction": "C raises the right arm above the head and keeps it raised, with the left arm down.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C lowers the right arm and keeps both arms down."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E05_02__replace__seed1",
+      "event_id": "E05_02",
+      "family_id": "E05",
+      "group": "E",
+      "zone_id": "Z2",
+      "variant_id": "replace",
+      "instruction": "C raises the right arm above the head and keeps it raised, with the left arm down.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C lowers the right arm, then raises the left arm above the head and keeps it raised."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E05_02__pause_resume__seed1",
+      "event_id": "E05_02",
+      "family_id": "E05",
+      "group": "E",
+      "zone_id": "Z2",
+      "variant_id": "pause_resume",
+      "instruction": "C raises the right arm above the head and keeps it raised, with the left arm down.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C lowers the right arm and keeps both arms down."
+        },
+        {
+          "time_s": 9.0,
+          "instruction": "C raises the right arm above the head and keeps it raised, with the left arm down."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E06_01__continue__seed1",
+      "event_id": "E06_01",
+      "family_id": "E06",
+      "group": "E",
+      "zone_id": "Z2",
+      "variant_id": "continue",
+      "instruction": "C keeps turning slowly to the left in place.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E06_01__pause__seed1",
+      "event_id": "E06_01",
+      "family_id": "E06",
+      "group": "E",
+      "zone_id": "Z2",
+      "variant_id": "pause",
+      "instruction": "C keeps turning slowly to the left in place.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops turning now and holds the current facing direction."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E06_01__replace__seed1",
+      "event_id": "E06_01",
+      "family_id": "E06",
+      "group": "E",
+      "zone_id": "Z2",
+      "variant_id": "replace",
+      "instruction": "C keeps turning slowly to the left in place.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C changes direction and keeps turning slowly to the right in place."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E06_01__pause_resume__seed1",
+      "event_id": "E06_01",
+      "family_id": "E06",
+      "group": "E",
+      "zone_id": "Z2",
+      "variant_id": "pause_resume",
+      "instruction": "C keeps turning slowly to the left in place.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops turning now and holds the current facing direction."
+        },
+        {
+          "time_s": 9.0,
+          "instruction": "C keeps turning slowly to the left in place."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E06_02__continue__seed1",
+      "event_id": "E06_02",
+      "family_id": "E06",
+      "group": "E",
+      "zone_id": "Z5",
+      "variant_id": "continue",
+      "instruction": "C keeps turning slowly to the left in place.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E06_02__pause__seed1",
+      "event_id": "E06_02",
+      "family_id": "E06",
+      "group": "E",
+      "zone_id": "Z5",
+      "variant_id": "pause",
+      "instruction": "C keeps turning slowly to the left in place.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops turning now and holds the current facing direction."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E06_02__replace__seed1",
+      "event_id": "E06_02",
+      "family_id": "E06",
+      "group": "E",
+      "zone_id": "Z5",
+      "variant_id": "replace",
+      "instruction": "C keeps turning slowly to the left in place.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C changes direction and keeps turning slowly to the right in place."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "E06_02__pause_resume__seed1",
+      "event_id": "E06_02",
+      "family_id": "E06",
+      "group": "E",
+      "zone_id": "Z5",
+      "variant_id": "pause_resume",
+      "instruction": "C keeps turning slowly to the left in place.",
+      "updates": [
+        {
+          "time_s": 4.5,
+          "instruction": "C stops turning now and holds the current facing direction."
+        },
+        {
+          "time_s": 9.0,
+          "instruction": "C keeps turning slowly to the left in place."
+        }
+      ],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F01_01__bearing_1__seed1",
+      "event_id": "F01_01",
+      "family_id": "F01",
+      "group": "F",
+      "zone_id": "Z1",
+      "variant_id": "bearing_1",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F01_01__bearing_2__seed1",
+      "event_id": "F01_01",
+      "family_id": "F01",
+      "group": "F",
+      "zone_id": "Z1",
+      "variant_id": "bearing_2",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F01_01__bearing_3__seed1",
+      "event_id": "F01_01",
+      "family_id": "F01",
+      "group": "F",
+      "zone_id": "Z1",
+      "variant_id": "bearing_3",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F01_01__bearing_4__seed1",
+      "event_id": "F01_01",
+      "family_id": "F01",
+      "group": "F",
+      "zone_id": "Z1",
+      "variant_id": "bearing_4",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F01_02__bearing_1__seed1",
+      "event_id": "F01_02",
+      "family_id": "F01",
+      "group": "F",
+      "zone_id": "Z2",
+      "variant_id": "bearing_1",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F01_02__bearing_2__seed1",
+      "event_id": "F01_02",
+      "family_id": "F01",
+      "group": "F",
+      "zone_id": "Z2",
+      "variant_id": "bearing_2",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F01_02__bearing_3__seed1",
+      "event_id": "F01_02",
+      "family_id": "F01",
+      "group": "F",
+      "zone_id": "Z2",
+      "variant_id": "bearing_3",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F01_02__bearing_4__seed1",
+      "event_id": "F01_02",
+      "family_id": "F01",
+      "group": "F",
+      "zone_id": "Z2",
+      "variant_id": "bearing_4",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F02_01__fridge_p1__seed1",
+      "event_id": "F02_01",
+      "family_id": "F02",
+      "group": "F",
+      "zone_id": "Z3",
+      "variant_id": "fridge_p1",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F02_01__fridge_p2__seed1",
+      "event_id": "F02_01",
+      "family_id": "F02",
+      "group": "F",
+      "zone_id": "Z3",
+      "variant_id": "fridge_p2",
+      "instruction": "C goes to the refrigerator and stands still in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F02_01__island_p1__seed1",
+      "event_id": "F02_01",
+      "family_id": "F02",
+      "group": "F",
+      "zone_id": "Z3",
+      "variant_id": "island_p1",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F02_01__island_p2__seed1",
+      "event_id": "F02_01",
+      "family_id": "F02",
+      "group": "F",
+      "zone_id": "Z3",
+      "variant_id": "island_p2",
+      "instruction": "C goes to the island table and stands still in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F02_02__fridge_p1__seed1",
+      "event_id": "F02_02",
+      "family_id": "F02",
+      "group": "F",
+      "zone_id": "Z4",
+      "variant_id": "fridge_p1",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F02_02__fridge_p2__seed1",
+      "event_id": "F02_02",
+      "family_id": "F02",
+      "group": "F",
+      "zone_id": "Z4",
+      "variant_id": "fridge_p2",
+      "instruction": "C goes to the refrigerator and stands still in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F02_02__island_p1__seed1",
+      "event_id": "F02_02",
+      "family_id": "F02",
+      "group": "F",
+      "zone_id": "Z4",
+      "variant_id": "island_p1",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F02_02__island_p2__seed1",
+      "event_id": "F02_02",
+      "family_id": "F02",
+      "group": "F",
+      "zone_id": "Z4",
+      "variant_id": "island_p2",
+      "instruction": "C goes to the island table and stands still in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F03_01__p1__seed1",
+      "event_id": "F03_01",
+      "family_id": "F03",
+      "group": "F",
+      "zone_id": "Z1",
+      "variant_id": "p1",
+      "instruction": "C walks to the entrance door and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F03_01__p2__seed1",
+      "event_id": "F03_01",
+      "family_id": "F03",
+      "group": "F",
+      "zone_id": "Z1",
+      "variant_id": "p2",
+      "instruction": "C goes to the entrance door and stands still in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F03_01__p3__seed1",
+      "event_id": "F03_01",
+      "family_id": "F03",
+      "group": "F",
+      "zone_id": "Z1",
+      "variant_id": "p3",
+      "instruction": "C approaches the entrance door on foot, then comes to a stop in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F03_01__p4__seed1",
+      "event_id": "F03_01",
+      "family_id": "F03",
+      "group": "F",
+      "zone_id": "Z1",
+      "variant_id": "p4",
+      "instruction": "C walks over to the entrance door, stops in front of it, and stays there.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F03_02__p1__seed1",
+      "event_id": "F03_02",
+      "family_id": "F03",
+      "group": "F",
+      "zone_id": "Z6",
+      "variant_id": "p1",
+      "instruction": "C walks to the entrance door and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F03_02__p2__seed1",
+      "event_id": "F03_02",
+      "family_id": "F03",
+      "group": "F",
+      "zone_id": "Z6",
+      "variant_id": "p2",
+      "instruction": "C goes to the entrance door and stands still in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F03_02__p3__seed1",
+      "event_id": "F03_02",
+      "family_id": "F03",
+      "group": "F",
+      "zone_id": "Z6",
+      "variant_id": "p3",
+      "instruction": "C approaches the entrance door on foot, then comes to a stop in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F03_02__p4__seed1",
+      "event_id": "F03_02",
+      "family_id": "F03",
+      "group": "F",
+      "zone_id": "Z6",
+      "variant_id": "p4",
+      "instruction": "C walks over to the entrance door, stops in front of it, and stays there.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F04_01__original__seed1",
+      "event_id": "F04_01",
+      "family_id": "F04",
+      "group": "F",
+      "zone_id": "Z2",
+      "variant_id": "original",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F04_01__brightness_low__seed1",
+      "event_id": "F04_01",
+      "family_id": "F04",
+      "group": "F",
+      "zone_id": "Z2",
+      "variant_id": "brightness_low",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "brightness_low"
+    },
+    {
+      "trial_id": "F04_01__brightness_high__seed1",
+      "event_id": "F04_01",
+      "family_id": "F04",
+      "group": "F",
+      "zone_id": "Z2",
+      "variant_id": "brightness_high",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "brightness_high"
+    },
+    {
+      "trial_id": "F04_01__warm_tint__seed1",
+      "event_id": "F04_01",
+      "family_id": "F04",
+      "group": "F",
+      "zone_id": "Z2",
+      "variant_id": "warm_tint",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "warm_tint"
+    },
+    {
+      "trial_id": "F04_02__original__seed1",
+      "event_id": "F04_02",
+      "family_id": "F04",
+      "group": "F",
+      "zone_id": "Z3",
+      "variant_id": "original",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F04_02__brightness_low__seed1",
+      "event_id": "F04_02",
+      "family_id": "F04",
+      "group": "F",
+      "zone_id": "Z3",
+      "variant_id": "brightness_low",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "brightness_low"
+    },
+    {
+      "trial_id": "F04_02__brightness_high__seed1",
+      "event_id": "F04_02",
+      "family_id": "F04",
+      "group": "F",
+      "zone_id": "Z3",
+      "variant_id": "brightness_high",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "brightness_high"
+    },
+    {
+      "trial_id": "F04_02__warm_tint__seed1",
+      "event_id": "F04_02",
+      "family_id": "F04",
+      "group": "F",
+      "zone_id": "Z3",
+      "variant_id": "warm_tint",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "warm_tint"
+    },
+    {
+      "trial_id": "F05_01__fridge_plain__seed1",
+      "event_id": "F05_01",
+      "family_id": "F05",
+      "group": "F",
+      "zone_id": "Z4",
+      "variant_id": "fridge_plain",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F05_01__fridge_distractor__seed1",
+      "event_id": "F05_01",
+      "family_id": "F05",
+      "group": "F",
+      "zone_id": "Z4",
+      "variant_id": "fridge_distractor",
+      "instruction": "C walks to the refrigerator and stops in front of it. The island table is not the destination.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F05_01__island_plain__seed1",
+      "event_id": "F05_01",
+      "family_id": "F05",
+      "group": "F",
+      "zone_id": "Z4",
+      "variant_id": "island_plain",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F05_01__island_distractor__seed1",
+      "event_id": "F05_01",
+      "family_id": "F05",
+      "group": "F",
+      "zone_id": "Z4",
+      "variant_id": "island_distractor",
+      "instruction": "C walks to the island table and stops in front of it. The refrigerator is not the destination.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F05_02__fridge_plain__seed1",
+      "event_id": "F05_02",
+      "family_id": "F05",
+      "group": "F",
+      "zone_id": "Z5",
+      "variant_id": "fridge_plain",
+      "instruction": "C walks to the refrigerator and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F05_02__fridge_distractor__seed1",
+      "event_id": "F05_02",
+      "family_id": "F05",
+      "group": "F",
+      "zone_id": "Z5",
+      "variant_id": "fridge_distractor",
+      "instruction": "C walks to the refrigerator and stops in front of it. The island table is not the destination.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F05_02__island_plain__seed1",
+      "event_id": "F05_02",
+      "family_id": "F05",
+      "group": "F",
+      "zone_id": "Z5",
+      "variant_id": "island_plain",
+      "instruction": "C walks to the island table and stops in front of it.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F05_02__island_distractor__seed1",
+      "event_id": "F05_02",
+      "family_id": "F05",
+      "group": "F",
+      "zone_id": "Z5",
+      "variant_id": "island_distractor",
+      "instruction": "C walks to the island table and stops in front of it. The refrigerator is not the destination.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F06_01__left_p1__seed1",
+      "event_id": "F06_01",
+      "family_id": "F06",
+      "group": "F",
+      "zone_id": "Z5",
+      "variant_id": "left_p1",
+      "instruction": "C walks to the left side of the coffee table, relative to C's initial facing direction, and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F06_01__left_p2__seed1",
+      "event_id": "F06_01",
+      "family_id": "F06",
+      "group": "F",
+      "zone_id": "Z5",
+      "variant_id": "left_p2",
+      "instruction": "C stops on the side of the coffee table that is to the left relative to C's initial facing direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F06_01__right_p1__seed1",
+      "event_id": "F06_01",
+      "family_id": "F06",
+      "group": "F",
+      "zone_id": "Z5",
+      "variant_id": "right_p1",
+      "instruction": "C walks to the right side of the coffee table, relative to C's initial facing direction, and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F06_01__right_p2__seed1",
+      "event_id": "F06_01",
+      "family_id": "F06",
+      "group": "F",
+      "zone_id": "Z5",
+      "variant_id": "right_p2",
+      "instruction": "C stops on the side of the coffee table that is to the right relative to C's initial facing direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F06_02__left_p1__seed1",
+      "event_id": "F06_02",
+      "family_id": "F06",
+      "group": "F",
+      "zone_id": "Z6",
+      "variant_id": "left_p1",
+      "instruction": "C walks to the left side of the coffee table, relative to C's initial facing direction, and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F06_02__left_p2__seed1",
+      "event_id": "F06_02",
+      "family_id": "F06",
+      "group": "F",
+      "zone_id": "Z6",
+      "variant_id": "left_p2",
+      "instruction": "C stops on the side of the coffee table that is to the left relative to C's initial facing direction.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F06_02__right_p1__seed1",
+      "event_id": "F06_02",
+      "family_id": "F06",
+      "group": "F",
+      "zone_id": "Z6",
+      "variant_id": "right_p1",
+      "instruction": "C walks to the right side of the coffee table, relative to C's initial facing direction, and stops.",
+      "updates": [],
+      "nuisance": "original"
+    },
+    {
+      "trial_id": "F06_02__right_p2__seed1",
+      "event_id": "F06_02",
+      "family_id": "F06",
+      "group": "F",
+      "zone_id": "Z6",
+      "variant_id": "right_p2",
+      "instruction": "C stops on the side of the coffee table that is to the right relative to C's initial facing direction.",
+      "updates": [],
+      "nuisance": "original"
+    }
+  ]
+}
