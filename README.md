@@ -18,7 +18,7 @@ These are frozen engineering task-completion criteria for a known-room diagnosti
 
 ## Public video copies
 
-Web videos are re-encoded as H.264/yuv420p, CRF28, with fast-start playback. Frame count, frame rate, duration and original raster dimensions are preserved. Quantitative scores are computed from the original generated trajectories and are unchanged by web encoding. Source and web video SHA-256 hashes are mapped in [video provenance](data/video_provenance.json).
+Web videos are re-encoded as H.264/yuv420p, CRF32, with fast-start playback. Web previews are 800×484; frame count, frame rate and duration are preserved. Original-resolution videos remain in the local publication package. Quantitative scores are computed from the original generated trajectories and are unchanged by web encoding. Source and web video SHA-256 hashes are mapped in [video provenance](data/video_provenance.json).
 
 This repository contains the gallery, public task metadata, score reports, images and web video copies. It does not contain training weights, raw training data, runtime environments or server credentials.
 
